@@ -1,6 +1,6 @@
-env: "local"
-storagePath: "./storage/sso.db"
-tokenTTL: 1h
+env: "prod"
+storagePath: "/root/apps/grpc-auth/sso.db"
+tokenTTL: 15m
 grpc:
-  port: 9999
-  timeout: 5h
+  port: 44044
+  timeout: 5s
