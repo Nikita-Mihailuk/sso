@@ -1,0 +1,94 @@
+{"level":"info","time":"2025-04-17T15:53:36.530+0300","caller":"C:/Go/Projects/sso/cmd/sso/main.go:14","msg":"test","cfg":"local"}
+{"level":"info","time":"2025-04-17T15:55:56.927+0300","caller":"C:/Go/Projects/sso/cmd/sso/main.go:14","msg":"test","cfg":"local"}
+{"level":"info","time":"2025-04-17T15:56:09.747+0300","caller":"C:/Go/Projects/sso/cmd/sso/main.go:14","msg":"test","cfg":"local"}
+{"level":"info","time":"2025-04-19T15:01:04.061+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:35","msg":"starting gRPC server","port":"[::]:9999"}
+{"level":"info","time":"2025-04-19T15:02:18.487+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:35","msg":"starting gRPC server","address":"[::]:9999"}
+{"level":"info","time":"2025-04-27T17:25:50.161+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:37","msg":"starting gRPC server","address":"[::]:9999"}
+{"level":"info","time":"2025-04-27T17:26:03.084+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:47","msg":"stopping gRPC server"}
+{"level":"info","time":"2025-04-27T17:26:03.085+0300","caller":"C:/Go/Projects/sso/cmd/sso/main.go:28","msg":"application stopped"}
+{"level":"info","time":"2025-04-27T17:27:13.705+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:37","msg":"starting gRPC server","address":"[::]:9999"}
+{"level":"info","time":"2025-04-27T17:27:22.463+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:47","msg":"stopping gRPC server"}
+{"level":"info","time":"2025-04-27T17:27:22.464+0300","caller":"C:/Go/Projects/sso/cmd/sso/main.go:29","msg":"application stopped"}
+{"level":"info","time":"2025-04-28T09:02:47.620+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:37","msg":"starting gRPC server","address":"[::]:9999"}
+{"level":"info","time":"2025-04-28T09:03:14.005+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:47","msg":"stopping gRPC server"}
+{"level":"info","time":"2025-04-28T09:03:14.006+0300","caller":"C:/Go/Projects/sso/cmd/sso/main.go:29","msg":"application stopped"}
+{"level":"info","time":"2025-04-28T09:05:28.052+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:37","msg":"starting gRPC server","address":"[::]:9999"}
+{"level":"info","time":"2025-04-28T09:05:41.844+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:47","msg":"stopping gRPC server"}
+{"level":"info","time":"2025-04-28T09:05:41.845+0300","caller":"C:/Go/Projects/sso/cmd/sso/main.go:29","msg":"application stopped"}
+{"level":"info","time":"2025-05-05T16:58:06.936+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:37","msg":"starting gRPC server","address":"[::]:9999"}
+{"level":"info","time":"2025-05-05T16:59:08.171+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:47","msg":"stopping gRPC server"}
+{"level":"info","time":"2025-05-05T16:59:08.172+0300","caller":"C:/Go/Projects/sso/cmd/sso/main.go:29","msg":"application stopped"}
+{"level":"info","time":"2025-05-05T16:59:11.862+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:37","msg":"starting gRPC server","address":"[::]:9999"}
+{"level":"info","time":"2025-05-05T17:00:50.778+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:47","msg":"stopping gRPC server"}
+{"level":"info","time":"2025-05-05T17:00:50.783+0300","caller":"C:/Go/Projects/sso/cmd/sso/main.go:29","msg":"application stopped"}
+{"level":"info","time":"2025-05-06T14:43:20.838+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:37","msg":"starting gRPC server","address":"[::]:9999"}
+{"level":"info","time":"2025-05-06T14:47:23.629+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:47","msg":"stopping gRPC server"}
+{"level":"info","time":"2025-05-06T14:47:23.630+0300","caller":"C:/Go/Projects/sso/cmd/sso/main.go:29","msg":"application stopped"}
+{"level":"info","time":"2025-05-06T14:47:38.223+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:37","msg":"starting gRPC server","address":"[::]:9999"}
+{"level":"info","time":"2025-05-06T14:48:15.580+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:47","msg":"stopping gRPC server"}
+{"level":"info","time":"2025-05-06T14:48:15.581+0300","caller":"C:/Go/Projects/sso/cmd/sso/main.go:29","msg":"application stopped"}
+{"level":"info","time":"2025-05-06T14:48:32.627+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:37","msg":"starting gRPC server","address":"[::]:9999"}
+{"level":"info","time":"2025-05-06T14:48:35.275+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:47","msg":"stopping gRPC server"}
+{"level":"info","time":"2025-05-06T14:48:35.276+0300","caller":"C:/Go/Projects/sso/cmd/sso/main.go:29","msg":"application stopped"}
+{"level":"info","time":"2025-05-06T14:49:01.254+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:37","msg":"starting gRPC server","address":"[::]:9999"}
+{"level":"info","time":"2025-05-06T14:49:04.564+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:47","msg":"stopping gRPC server"}
+{"level":"info","time":"2025-05-06T14:49:04.566+0300","caller":"C:/Go/Projects/sso/cmd/sso/main.go:29","msg":"application stopped"}
+{"level":"info","time":"2025-05-06T14:49:37.173+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:37","msg":"starting gRPC server","address":"[::]:9999"}
+{"level":"info","time":"2025-05-06T14:49:39.795+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:47","msg":"stopping gRPC server"}
+{"level":"info","time":"2025-05-06T14:49:39.796+0300","caller":"C:/Go/Projects/sso/cmd/sso/main.go:29","msg":"application stopped"}
+{"level":"info","time":"2025-05-06T14:49:46.179+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:37","msg":"starting gRPC server","address":"[::]:9999"}
+{"level":"info","time":"2025-05-06T14:49:49.681+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:47","msg":"stopping gRPC server"}
+{"level":"info","time":"2025-05-06T14:49:49.682+0300","caller":"C:/Go/Projects/sso/cmd/sso/main.go:29","msg":"application stopped"}
+{"level":"info","time":"2025-05-06T15:08:25.279+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:37","msg":"starting gRPC server","address":"[::]:9999"}
+{"level":"info","time":"2025-05-06T15:33:53.809+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:47","msg":"stopping gRPC server"}
+{"level":"info","time":"2025-05-06T15:33:53.811+0300","caller":"C:/Go/Projects/sso/cmd/sso/main.go:29","msg":"application stopped"}
+{"level":"info","time":"2025-05-06T15:37:26.743+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:37","msg":"starting gRPC server","address":"[::]:9999"}
+{"level":"info","time":"2025-05-06T15:37:36.907+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:47","msg":"stopping gRPC server"}
+{"level":"info","time":"2025-05-06T15:37:36.907+0300","caller":"C:/Go/Projects/sso/cmd/sso/main.go:29","msg":"application stopped"}
+{"level":"info","time":"2025-05-06T15:41:43.647+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:37","msg":"starting gRPC server","address":"[::]:9999"}
+{"level":"info","time":"2025-05-06T15:41:57.810+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:95","msg":"registering new user","email":"rosaherman@emmerich.org"}
+{"level":"error","time":"2025-05-06T15:41:57.915+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:109","msg":"failed to save user","email":"rosaherman@emmerich.org","error":"table users has no column named password_hash"}
+{"level":"info","time":"2025-05-06T15:44:48.291+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:47","msg":"stopping gRPC server"}
+{"level":"info","time":"2025-05-06T15:44:48.292+0300","caller":"C:/Go/Projects/sso/cmd/sso/main.go:29","msg":"application stopped"}
+{"level":"info","time":"2025-05-06T15:44:51.960+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:37","msg":"starting gRPC server","address":"[::]:9999"}
+{"level":"info","time":"2025-05-06T15:45:00.971+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:95","msg":"registering new user","email":"dallaseichmann@champlin.com"}
+{"level":"info","time":"2025-05-06T15:45:01.072+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:55","msg":"login user","email":"dallaseichmann@champlin.com"}
+{"level":"info","time":"2025-05-06T15:47:24.294+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:47","msg":"stopping gRPC server"}
+{"level":"info","time":"2025-05-06T15:47:24.294+0300","caller":"C:/Go/Projects/sso/cmd/sso/main.go:29","msg":"application stopped"}
+{"level":"info","time":"2025-05-06T15:47:32.856+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:37","msg":"starting gRPC server","address":"[::]:9999"}
+{"level":"info","time":"2025-05-06T15:47:44.460+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:95","msg":"registering new user","email":"darencrona@yundt.net"}
+{"level":"info","time":"2025-05-06T15:47:44.537+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:55","msg":"login user","email":"darencrona@yundt.net"}
+{"level":"info","time":"2025-05-06T15:55:15.794+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:95","msg":"registering new user","email":"arvelrobel@cremin.name"}
+{"level":"info","time":"2025-05-06T15:55:15.865+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:95","msg":"registering new user","email":"arvelrobel@cremin.name"}
+{"level":"error","time":"2025-05-06T15:55:15.941+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:106","msg":"user already exists","email":"arvelrobel@cremin.name","error":"user already exists"}
+{"level":"info","time":"2025-05-06T16:08:06.276+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:95","msg":"registering new user","email":"tadwuckert@larkin.biz"}
+{"level":"info","time":"2025-05-06T16:08:06.350+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:55","msg":"login user","email":"tadwuckert@larkin.biz"}
+{"level":"info","time":"2025-05-06T16:08:49.661+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:95","msg":"registering new user","email":"karianeolson@pfannerstill.net"}
+{"level":"info","time":"2025-05-06T16:08:49.661+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:95","msg":"registering new user","email":"jaynader@kling.net"}
+{"level":"info","time":"2025-05-06T16:08:49.756+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:55","msg":"login user","email":"karianeolson@pfannerstill.net"}
+{"level":"info","time":"2025-05-06T16:08:49.771+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:95","msg":"registering new user","email":"jaynader@kling.net"}
+{"level":"error","time":"2025-05-06T16:08:49.835+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:106","msg":"user already exists","email":"jaynader@kling.net","error":"user already exists"}
+{"level":"info","time":"2025-05-06T16:16:19.585+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:95","msg":"registering new user","email":"kevenschamberger@klein.com"}
+{"level":"info","time":"2025-05-06T16:16:19.585+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:95","msg":"registering new user","email":"lynnmoore@dickens.net"}
+{"level":"info","time":"2025-05-06T16:16:19.702+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:95","msg":"registering new user","email":"lynnmoore@dickens.net"}
+{"level":"info","time":"2025-05-06T16:16:19.716+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:55","msg":"login user","email":"kevenschamberger@klein.com"}
+{"level":"error","time":"2025-05-06T16:16:19.775+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:106","msg":"user already exists","email":"lynnmoore@dickens.net","error":"user already exists"}
+{"level":"info","time":"2025-05-06T16:19:12.342+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:95","msg":"registering new user","email":"mandyberge@lindgren.io"}
+{"level":"info","time":"2025-05-06T16:19:12.410+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:95","msg":"registering new user","email":"sabinahickle@mcclure.com"}
+{"level":"info","time":"2025-05-06T16:19:12.490+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:95","msg":"registering new user","email":"crystaltreutel@olson.io"}
+{"level":"info","time":"2025-05-06T16:19:12.562+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:95","msg":"registering new user","email":"addisonkeebler@brekke.net"}
+{"level":"info","time":"2025-05-06T16:19:12.636+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:55","msg":"login user","email":"piercekoch@flatley.info"}
+{"level":"info","time":"2025-05-06T16:19:12.637+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:60","msg":"user not found","email":"piercekoch@flatley.info","error":"user not found"}
+{"level":"info","time":"2025-05-06T16:19:12.637+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:95","msg":"registering new user","email":"shanondenesik@gusikowski.biz"}
+{"level":"info","time":"2025-05-06T16:20:40.151+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:95","msg":"registering new user","email":"tanialuettgen@boehm.com"}
+{"level":"info","time":"2025-05-06T16:20:40.223+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:95","msg":"registering new user","email":"einarberge@buckridge.name"}
+{"level":"info","time":"2025-05-06T16:20:40.293+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:95","msg":"registering new user","email":"mozellcremin@bayer.info"}
+{"level":"info","time":"2025-05-06T16:20:40.358+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:95","msg":"registering new user","email":"ettiejacobs@dubuque.io"}
+{"level":"info","time":"2025-05-06T16:20:40.434+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:55","msg":"login user","email":"maritzatremblay@schinner.com"}
+{"level":"info","time":"2025-05-06T16:20:40.434+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:60","msg":"user not found","email":"maritzatremblay@schinner.com","error":"user not found"}
+{"level":"info","time":"2025-05-06T16:20:40.435+0300","caller":"C:/Go/Projects/sso/internal/service/auth/auth.go:95","msg":"registering new user","email":"tressafay@witting.net"}
+{"level":"info","time":"2025-05-06T17:41:30.041+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:47","msg":"stopping gRPC server"}
+{"level":"info","time":"2025-05-06T17:41:30.076+0300","caller":"C:/Go/Projects/sso/cmd/sso/main.go:29","msg":"application stopped"}
+{"level":"info","time":"2025-05-06T17:41:35.363+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:37","msg":"starting gRPC server","address":"[::]:9999"}
+{"level":"info","time":"2025-05-06T17:41:48.066+0300","caller":"C:/Go/Projects/sso/internal/app/grpc/app.go:47","msg":"stopping gRPC server"}
+{"level":"info","time":"2025-05-06T17:41:48.067+0300","caller":"C:/Go/Projects/sso/cmd/sso/main.go:29","msg":"application stopped"}

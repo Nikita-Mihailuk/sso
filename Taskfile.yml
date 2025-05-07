@@ -1,0 +1,17 @@
+version: "3"
+
+tasks:
+  migrate-up:
+    desc: "applied migrations"
+    cmds:
+      - go run ./cmd/migrator --storage-path={{.STORAGE_PATH}} --migrations-path={{.MIGRATIONS_PATH}} --migrations-table={{.MIGRATIONS_TABLE}}
+    vars:
+      STORAGE_PATH: "./storage/sso.db"
+      MIGRATIONS_PATH: "./migrations"
+      MIGRATIONS_TABLE: "migrations"
+  run:
+    desc: "run application"
+    cmds:
+      - go run cmd/sso/main.go --config={{.CONFIG_PATH}}
+    vars:
+      CONFIG_PATH: "config/local.yml"
